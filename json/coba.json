@@ -1,0 +1,16 @@
+[
+	{
+		"nama" : "kresna",
+		"umur" : 20,
+		"nrp"  : "173040129",
+		"lulus": false,
+		"hobby":["gaming","coding"]
+	},
+	{
+		"nama" : "kresna",
+		"umur" : 20,
+		"nrp"  : "173040129",
+		"lulus": false,
+		"hobby":["gaming","coding"]
+	}
+]
